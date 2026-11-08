@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-204300-pmct",
+      "title": "Chat Killz",
+      "commanders": [
+        "Chat Killz"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-08T02:43:00.000Z",
+      "dateEnd": "2026-11-08T03:35:41.939Z",
+      "dateLabel": "11/7/2026, 8:43:00 PM - 11/7/2026, 9:35:41 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261107-204300-pmct",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20261024-093924-150t",
       "title": "R Ó N Î N",
