@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261112-173550-lmql",
+      "title": "May Evergreen",
+      "commanders": [
+        "May Evergreen"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-12T23:35:50.000Z",
+      "dateEnd": "2026-11-13T00:41:55.961Z",
+      "dateLabel": "11/12/2026, 5:35:50 PM - 11/12/2026, 6:41:55 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261112-173550-lmql",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 14
+      }
+    },
     {
       "id": "20261107-204300-pmct",
       "title": "Chat Killz",
