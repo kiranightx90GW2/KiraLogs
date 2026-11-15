@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261114-194750-uxim",
+      "title": "Smok Twentyfour",
+      "commanders": [
+        "Smok Twentyfour"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-15T01:47:50.000Z",
+      "dateEnd": "2026-11-15T02:33:48.973Z",
+      "dateLabel": "11/14/2026, 7:47:50 PM - 11/14/2026, 8:33:48 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261114-194750-uxim",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 36,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20261112-173550-lmql",
       "title": "May Evergreen",
       "commanders": [
