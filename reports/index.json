@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261115-161638-m2rr",
+      "title": "Kithrine Killz",
+      "commanders": [
+        "Kithrine Killz"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-15T22:16:38.000Z",
+      "dateEnd": "2026-11-15T23:29:29.587Z",
+      "dateLabel": "11/15/2026, 4:16:38 PM - 11/15/2026, 5:29:29 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261115-161638-m2rr",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261114-194750-uxim",
       "title": "Smok Twentyfour",
       "commanders": [
