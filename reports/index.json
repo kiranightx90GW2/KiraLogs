@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261117-172735-06fo",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "8F4FBBD0-E8BE-4CA2-80A4-9ADF1BF6071D",
+        "name": "Ken Sei",
+        "tag": "RYU"
+      },
+      "dateStart": "2026-11-17T23:27:35.000Z",
+      "dateEnd": "2026-11-18T00:49:48.908Z",
+      "dateLabel": "11/17/2026, 5:27:35 PM - 11/17/2026, 6:49:48 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261117-172735-06fo",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261115-161638-m2rr",
       "title": "Kithrine Killz",
       "commanders": [
