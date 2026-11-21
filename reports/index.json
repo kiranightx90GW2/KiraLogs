@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261120-201159-bt9x",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-21T02:11:59.000Z",
+      "dateEnd": "2026-11-21T02:52:02.407Z",
+      "dateLabel": "11/20/2026, 8:11:59 PM - 11/20/2026, 8:52:02 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261120-201159-bt9x",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261117-172735-06fo",
       "title": "R Ó N Î N",
       "commanders": [
