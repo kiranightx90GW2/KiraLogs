@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261123-194625-y76b",
+      "title": "Tamria Tee",
+      "commanders": [
+        "Tamria Tee"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-24T01:46:25.000Z",
+      "dateEnd": "2026-11-24T02:32:25.138Z",
+      "dateLabel": "11/23/2026, 7:46:25 PM - 11/23/2026, 8:32:25 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261123-194625-y76b",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 27,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261120-201159-bt9x",
       "title": "R Ó N Î N",
       "commanders": [
