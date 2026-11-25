@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261124-175658-3h6z",
+      "title": "R Ó N Î N",
+      "commanders": [
+        "R Ó N Î N"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-24T23:56:58.000Z",
+      "dateEnd": "2026-11-25T00:43:59.091Z",
+      "dateLabel": "11/24/2026, 5:56:58 PM - 11/24/2026, 6:43:59 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261124-175658-3h6z",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 21,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20261123-194625-y76b",
       "title": "Tamria Tee",
       "commanders": [
