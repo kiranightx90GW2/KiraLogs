@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261125-201131-vcxs",
+      "title": "Kattie Mewfriend",
+      "commanders": [
+        "Kattie Mewfriend"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-26T02:11:31.000Z",
+      "dateEnd": "2026-11-26T03:31:33.695Z",
+      "dateLabel": "11/25/2026, 8:11:31 PM - 11/25/2026, 9:31:33 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261125-201131-vcxs",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261125-185619-9wj4",
       "title": "Nemesis Kingg",
       "commanders": [
