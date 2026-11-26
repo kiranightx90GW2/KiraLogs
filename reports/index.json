@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-185619-9wj4",
+      "title": "Nemesis Kingg",
+      "commanders": [
+        "Nemesis Kingg"
+      ],
+      "guild": {
+        "id": "61F66972-E9BE-437C-AB71-BBFD23AA7AC2",
+        "name": "Tyrian Misfits",
+        "tag": "TM"
+      },
+      "dateStart": "2026-11-26T00:56:19.000Z",
+      "dateEnd": "2026-11-26T01:50:26.516Z",
+      "dateLabel": "11/25/2026, 6:56:19 PM - 11/25/2026, 7:50:26 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261125-185619-9wj4",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261124-175658-3h6z",
       "title": "R Ó N Î N",
       "commanders": [
