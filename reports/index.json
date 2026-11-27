@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261126-193615-mnny",
+      "title": "Genmcgirther",
+      "commanders": [
+        "Genmcgirther"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-27T01:36:15.000Z",
+      "dateEnd": "2026-11-27T02:37:15.579Z",
+      "dateLabel": "11/26/2026, 7:36:15 PM - 11/26/2026, 8:37:15 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261126-193615-mnny",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 39,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261125-201131-vcxs",
       "title": "Kattie Mewfriend",
       "commanders": [
