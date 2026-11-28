@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261127-200848-4mzg",
+      "title": "Kithrine Killz",
+      "commanders": [
+        "Kithrine Killz"
+      ],
+      "guild": {
+        "id": "719B92A7-8668-E811-81A9-DC92C488388A",
+        "name": "Lag Is For Everyone",
+        "tag": "LIFE"
+      },
+      "dateStart": "2026-11-28T02:08:48.000Z",
+      "dateEnd": "2026-11-28T02:51:32.607Z",
+      "dateLabel": "11/27/2026, 8:08:48 PM - 11/27/2026, 8:51:32 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261127-200848-4mzg",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261127-164946-3rcb",
       "title": "Hælga Jorgensdottir",
       "commanders": [
