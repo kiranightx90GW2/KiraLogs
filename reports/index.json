@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261127-164946-3rcb",
+      "title": "Hælga Jorgensdottir",
+      "commanders": [
+        "Hælga Jorgensdottir"
+      ],
+      "guild": {
+        "id": "378A1947-BBB4-EF11-8465-02315AB41281",
+        "name": "Quagganic Order Of The Sacred",
+        "tag": "YEET"
+      },
+      "dateStart": "2026-11-27T22:49:46.000Z",
+      "dateEnd": "2026-11-28T00:01:52.825Z",
+      "dateLabel": "11/27/2026, 4:49:46 PM - 11/27/2026, 6:01:52 PM",
+      "url": "https://kiranightx90gw2.github.io/KiraLogs/?report=20261127-164946-3rcb",
+      "publishedBy": "kiranightx90GW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261126-193615-mnny",
       "title": "Genmcgirther",
       "commanders": [
